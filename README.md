@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+####Hey All Kind Huamn Beings!
+>This is **Pratibha Baloriya** here.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+>And Here we all are goin' to learn GitHub from beginner to advanced level & I'll Add all new features of Git time to time in this Tutorial.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+#####Thanks! 
